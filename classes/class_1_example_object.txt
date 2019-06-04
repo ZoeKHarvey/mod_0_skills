@@ -1,0 +1,15 @@
+History of the United States 
+
+Attributes:
+Total_pages: 346
+Current_page: 253
+Author: "John Stowe"
+Contributors: "John Stowe, Kathy Green, Lee Marcus"
+Publish_date: 2019
+Recylable: True
+
+Methods:
+Pages_left: 93 
+Pages_read: 253
+Add contributors: "John Stowe, Kathy Green, Lee Marcus, Naomi Beale"
+Recycles: yes
