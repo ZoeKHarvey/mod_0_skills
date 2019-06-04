@@ -1,0 +1,16 @@
+Class: Textbook
+
+Attributes: 
+Total_pages (integer)
+Current_page (integer)
+Author (string)
+Contributors (array)
+Publish_date (datetime)
+Recyclable (boolean)
+
+Methods:
+Pages_left (negates current_page from total_page)
+Pages_read (uses current_page)
+Add_contributors (adds a string to the array of contributors)
+Recycles (uses boolean to calculate whether it is recyclable)
+
