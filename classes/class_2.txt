@@ -3,12 +3,11 @@ Class: Gym sport ball
 Attributes:
 Color (string)
 Material (string)
-Total_owned (integer)
-In_use (integer)
-Firmness (integer)
+Firmness (float))
+Date_bought (datetime)
 
 Methods:
-Calculate_worth (uses color and material to decide whether it's still useful)
-Calculate_missing (negates in_use from total_owned to calculate any missing)
+Calculate_worth (uses color, material and date_bought to decide whether it's still useful)
 Bounce (uses firmness and material)
 Inflate (uses firmness to calculate need for inflation)
+Bouyancy (uses material and firmness to calculate bouyancy)

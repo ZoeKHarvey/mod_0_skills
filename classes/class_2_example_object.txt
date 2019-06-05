@@ -3,13 +3,11 @@ Object: Tennis ball
 Attributes:
 Color: dirt_yellow
 Material: rubber
-Total_owned: 100
-In_use: 20
-Currently_in_stock: 73
-Firmness: 4.6
+Firmness: 4.6 
+Date bought: 2017
 
 Methods:
 Calculate_worth: throw_away
-Calculate_missing: 7
 Bounce: 3ft
 Inflate: 1.3 
+Bouyancy: Yes
