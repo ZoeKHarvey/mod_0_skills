@@ -4,7 +4,7 @@ Attributes:
 Color (string)
 Material (string)
 Firmness (float))
-Date_bought (datetime)
+Date_bought  (datetime)
 
 Methods:
 Calculate_worth (uses color, material and date_bought to decide whether it's still useful)

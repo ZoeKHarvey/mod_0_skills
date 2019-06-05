@@ -4,7 +4,7 @@ Attributes:
 Color: dirt_yellow
 Material: rubber
 Firmness: 4.6 
-Date bought: 2017
+Date bought: 2016
 
 Methods:
 Calculate_worth: throw_away
